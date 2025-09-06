@@ -60,7 +60,7 @@ st.write("Compare **Classical (OR-Tools)** vs **Quantum (placeholder)** routing 
 
 # User input: delivery points
 st.sidebar.header("Configuration")
-num_points = st.sidebar.slider("Number of delivery points", 3, 10, 5)
+num_points = st.sidebar.slider("Number of delivery points", 3, 6, 4)
 
 # Generate random coordinates (Amaravati bounding box approx.)
 lat_min, lat_max = 16.48, 16.54
