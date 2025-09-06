@@ -1,5 +1,9 @@
-streamlit
-streamlit-folium
-folium
-numpy
-ortools==9.8.3296
+streamlit==1.49.1
+streamlit-folium==0.25.1
+folium==0.20.0
+numpy==2.3.2
+ortools==9.14.6206
+rich==14.1.0
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pygments==2.19.2
